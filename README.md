@@ -1,6 +1,7 @@
-# SparkifyAWSWarehouse
+
+
+# <font color='blue'>Data Warehouse Project - Sparkify</font>
 Reflects the use of Redshift for analyzing music streaming data.
-# Data Warehouse Project - Sparkify
 
 ## Introduction
 Sparkify, a rapidly growing music streaming service, has decided to move its data warehouse to a cloud-based solution to accommodate the increasing scale of data. The Data Warehouse project aims to build an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms the data into a set of dimensional tables for analytics purposes.
